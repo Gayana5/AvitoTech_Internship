@@ -1,0 +1,10 @@
+bin/
+*.md
+.git/
+.gitignore
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
